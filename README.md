@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I’m Ahcene 👋
 
-<!--
-**ahcenebi/ahcenebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Data Analyst passionate about transforming raw data into meaningful insights using Power BI, SQL, and Excel. My projects focus on production efficiency, inventory management, and sales performance analytics.
 
-Here are some ideas to get you started:
+💡 What I work on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Power BI Dashboards – Interactive reports with KPIs, DAX measures, and drill-downs
+
+📦 Inventory Management Reports – Tracking stock levels, usage trends, and reorder points
+
+🔍 Sales & Operations Analysis – Combining data sources to uncover bottlenecks and improve efficiency
+
+🛠️ Technical Skills:
+
+Power BI (DAX, Power Query, KPIs)
+
+SQL (basic queries)
+
+Excel (Pivot Tables, Charts, Lookups)
+
+Data Visualization & Reporting
+
+📂 Check out my repositories to see dashboards and reports I’ve developed. Each project is designed to showcase real-world applications of data analysis in production and operations.
+
+🌱 Currently expanding my skills through the Power BI Analyst Certification and portfolio projects.
+
+📫 Let’s connect:
+
+LinkedIn: [Ahcene Abdous](https://www.linkedin.com/in/ahcene-abdous-64aa16147/)
+
+Email: ahceneprog@gmail.com
